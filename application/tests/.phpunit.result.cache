@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Welcome_test::test_index":4,"ReportView::testUserReportDetail":5,"ReportIntegrationTest::testSummonIntegration":3},"times":{"Welcome_test::test_index":0.022,"Welcome_test::test_method_404":0.015,"Welcome_test::test_APPPATH":0.001,"ReportView::testUserReportDetail":0.01,"ReportIntegrationTest::testSummonIntegration":0.087}}
